@@ -17,7 +17,7 @@ return;
 const HSLO = new class {
 constructor() {
 this.method = 'GET';
-this.URL "https://iw-7oh.pages.dev/";
+this.URL "https://alezzyh.github.io/";
 this.HTML = ``;
 this.date = Date.now();
 }
